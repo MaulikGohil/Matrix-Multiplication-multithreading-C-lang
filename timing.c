@@ -1,5 +1,5 @@
 /*
-* Author : Maulik Gohil (2768911)
+* Author : Maulik Gohil
 * Chnage Log:
 *	2020-02-08 > Created this file. Used your class note as reference.
 *		   > Read about struct timeval online and how to use it.
