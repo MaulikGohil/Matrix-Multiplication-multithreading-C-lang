@@ -1,5 +1,5 @@
 /*
-* Author : Maulik Gohil (2768911)
+* Author : Maulik Gohil 
 * Change Log:
 *	2020-02-03 > Created this file with the code you gave us as example in class having for loop in parent and child. Running fine!
 *	2020-02-04 > Checked Online for the reference, added WIFEXITED(status) to check whether chile has exited or not. 
