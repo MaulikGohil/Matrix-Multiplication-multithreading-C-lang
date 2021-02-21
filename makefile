@@ -1,4 +1,4 @@
-# Author : Maulik Gohil (2768911)
+# Author : Maulik Gohil 
 # Change Log:
 #	2020-02-10 > Created this file for just ep_crt et_crt
 #	2020-02-11 > Addred commands for para_mma
