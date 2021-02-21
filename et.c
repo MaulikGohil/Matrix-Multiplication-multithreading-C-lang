@@ -1,5 +1,5 @@
 /*
-* Author : Maulik Gohil (2768911)
+* Author : Maulik Gohil
 * Change Log:
 *	2020-02-03 > Created this file with the code you gave us as example in class having for INCR and DECR functions and Main thread *		     waiting for child threads to exit. Running fine!
 *	2020-02-05 > Copied initail code of main function and the whole foo function from ep.c file.
