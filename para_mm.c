@@ -1,5 +1,5 @@
 /*
-* Author : Maulik Gohil (2768911)
+* Author : Maulik Gohil
 * Chnage Log:
 *	2020-02-06 > Created this file. Copied the initial code from et.c including foo() function.
 *		   > Chnaged name of void *foo() to matrixMul() and implemented the simple matrix multiplication code as you showed us
